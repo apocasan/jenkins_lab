@@ -1,0 +1,11 @@
+node {
+   stage('Create file'){
+       
+   }
+   stage('write'){
+       
+   }
+   stage('Print'){
+       
+   }
+}
